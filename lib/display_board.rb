@@ -2,5 +2,9 @@
 def display_board
   row_a = "   " + "|" + "   " + "|" + "   "
   row_b = "-----------"
-  board = "#{row_a}\n#{row_b}\n#{row_a}\n#{row_b}\n#{row_a}"
+  puts row_a
+  puts row_b
+  puts row_a
+  puts row_b
+  puts row_a
 end
