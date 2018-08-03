@@ -2,5 +2,5 @@
 def display_board
   row_a = "   " + "|" + "   " + "|" + "   "
   row_b = "-----------"
-  board = "row_a \n "
+  board = "row_a\nrow_b\nrow_a\nrow_b\nrow_a "
 end
